@@ -1,6 +1,6 @@
-# Customer Service Reply Bot
+# Customer Reply Bot
 
-A LLM project using Python and the LangChain framework to create an AI bot that can automatically generate responses to customer feedback and queries. Use cases can be for an ecommerce site customer reviews and email queries received from customers. 
+A LLM project using Python and the LangChain framework to create an AI bot that can automatically generate responses to customer feedback and queries. Use cases are primarily in customer service like for an ecommerce site customer reviews page and email queries received from customers. 
 
 Concepts used:
 - Constructing chains with the LangChain Expression Language (7 sub-chains within an overall chain). Used various Runnables like RunnableParallel and RunnableBranch
