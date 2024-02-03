@@ -11,7 +11,7 @@ Concepts used:
 
 More Details
 
-Retrievers:
+Retrievers as tools:
 Tool 1: Semantic search on similar examples to provide few shot examples for llm to answer customer questions.
 Tool 2: Self-querying retriever over product data, to obtain product information to give context to the llm. Self-query retrieval is used as the product data is originally from Excel/CSV type data where product information can be stored in the Document metadata. 
 
