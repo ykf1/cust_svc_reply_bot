@@ -1,0 +1,10 @@
+langchain-0.1.5 
+langchain-community-0.0.17 
+langchain-core-0.1.18 
+langsmith-0.0.86
+openai-1.8.0
+python-dotenv-0.21.0
+chromadb-0.4.19
+
+
+
