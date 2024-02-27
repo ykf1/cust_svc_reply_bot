@@ -24,4 +24,6 @@ Chains - steps:
 6. Construct the prompt with the few shot examples and product context, and prompt the LLM to construct the response to answer the customer’s question 
 7. Translate back to customer's original language if necessary.
 
-Chain - diagram:
+Notebooks:
+Main code: customer_reply_bot_notebook.ipynb
+Evaluate output using dataset of question and gold standard answer using LLM: evaluation.ipynb
