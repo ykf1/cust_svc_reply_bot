@@ -25,5 +25,5 @@ Chains - steps:
 7. Translate back to customer's original language if necessary.
 
 Notebooks:
-Main code: customer_reply_bot_notebook.ipynb
-Evaluate output using dataset of question and gold standard answer using LLM: evaluation.ipynb
+- Main code: customer_reply_bot_notebook.ipynb
+- Evaluate output using dataset of question and gold standard answer using LLM: evaluation.ipynb
